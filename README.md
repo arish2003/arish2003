@@ -1,7 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Arish</h1>
 <h3 align="center">Exploring the Depths of AI & Data Science 🚀 | Seeking Innovation & Collaboration 💡</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/VJi.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/200w.webp?cid=ecf05e47ssf9rs5vln8wv133hcjh6u11ty4yoidlrvxoblxv&ep=v1_gifs_related&rid=200w.webp&ct=s">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arish2003&label=Profile%20views&color=0e75b6&style=flat" alt="arish2003" /> </p>
 
